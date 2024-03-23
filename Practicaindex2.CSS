@@ -1,0 +1,193 @@
+* {
+    padding: 0;
+    margin: 0;
+    color:transparent
+}
+.titulo__h1 {
+    color: white;
+    background-color: gray;
+    text-align: center;
+    margin: 0%;
+    font-family:'Pixelify Sans', sans-serif;
+    font-size: 4em;
+}
+.titulo__h4 {
+    color:transparent;
+    background-color: rgb(63, 62, 62);
+    margin: 0;
+}
+.hover__section-h4 {
+    background-color: rgb(231, 231, 231);
+    text-align: center;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 90px;
+    margin-top: 150px;
+    margin-bottom: 17000px;
+}
+.hover__section2-h5 {
+    background-color:rgb(231, 231, 231);
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 40px;
+    margin-top: 150px;
+}
+/*.hover__section3-h5 {
+    background-color: red
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 32px;
+    margin-top: 150px;
+}*/
+.hover__section2-h5--margin {
+    margin-left: 20px;
+    background-color: rgb(241, 241, 241);
+    display: inline-block;
+    box-sizing: border-box;
+    padding-top: 20px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 20px;
+    margin-top: 150px;
+}
+.hover__section3-h5--margin2 {
+    background-color:  rgb(241, 241, 241);
+    display: inline-block;
+    box-sizing: border-box;
+    padding-top: 20px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 20px;
+    margin-top: 150px; 
+}
+.hover__section2-h5--valeria {
+    background-color: rgb(219, 219, 219);
+    display: inline-block;
+    box-sizing: border-box;
+    padding-top: 40px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 40px;
+    margin-top: 150px
+}
+.hover__section3-h5--valeria2 {
+    background-color: rgb(219, 219, 219);
+    display: inline-block;
+    box-sizing: border-box;
+    padding-top: 40px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 40px;
+    margin-top: 150px
+}
+.hover__section2-h5--santiago {
+    background-color: rgb(190, 190, 190);
+    display: inline-block;
+    box-sizing: border-box;
+    padding-top: 64px;
+    padding-left: 38px;
+    padding-right: 38px;
+    padding-bottom: 64px;
+    margin-top: 150px
+}
+.hover__section3-h5--si {
+    background-color: rgb(190, 190, 190);
+    display: inline-block;
+    box-sizing: border-box;
+    padding-top: 64px;
+    padding-left: 38px;
+    padding-right: 38px;
+    padding-bottom: 64px;
+    margin-top: 150px
+}
+.hover__div-h4--4 {
+    background-color: rgb(80, 73, 73);
+    text-align: center;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 78px;
+    padding-left:115px;
+    padding-right: 115px;
+    margin-top: 150px;
+    margin-bottom: 170px;
+}
+ .hover__div-h4--1 {
+    background-color: rgb(80, 73, 73);
+    text-align: center;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 78px;
+    padding-left:115px;
+    padding-right: 115px;
+    margin-top: 150px;
+    margin-bottom: 170px;
+}
+.hover__div-h4--2 {
+    background-color: rgb(80, 73, 73);
+    text-align: center;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 78px;
+    padding-left:115px;
+    padding-right: 115px;
+    margin-top: 150px;
+    margin-bottom: 170px;
+}
+.hover__div-h4--3 {
+    background-color: rgb(80, 73, 73);
+    text-align: center;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 78px;
+    padding-left:115px;
+    padding-right: 115px;
+    margin-top: 150px;
+    margin-bottom: 170px;
+}
+.hover__div-h4--1:hover {
+    background-color: rgb(253, 101, 108);
+    text-align: center;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 82px;
+    padding-left:118px;
+    padding-right: 118px;
+    margin-top: 150px;
+    margin-bottom: 170px;
+}
+.hover__div-h4--2:hover {
+    background-color: rgb(253, 217, 101);
+    text-align: center;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 82px;
+    padding-left:118px;
+    padding-right: 118px;
+    margin-top: 150px;
+    margin-bottom: 170px;
+    color:transparent
+}
+.hover__div-h4--3:hover {
+    color: transparent;
+    background-color: rgb(160, 255, 83);
+    text-align: center;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 82px;
+    padding-left:118px;
+    padding-right: 118px;
+    margin-top: 150px;
+    margin-bottom: 170px;
+}
+.hover__div-h4--4:hover {
+    background-color: rgb(101, 154, 253);
+    text-align: center;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 82px;
+    padding-left:118px;
+    padding-right: 118px;
+    margin-top: 150px;
+    margin-bottom: 170px;
+}
+
